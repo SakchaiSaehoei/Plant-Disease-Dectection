@@ -1,5 +1,5 @@
 python_version >= "3.9"
-tensorflow
+tensorflow==2.8.0
 keras==2.8.0
 numpy>=1.19.3
 opencv-python-headless==4.6.0.66
