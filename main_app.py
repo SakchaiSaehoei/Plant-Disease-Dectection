@@ -10,7 +10,7 @@ from keras.models import load_model
 model = load_model('plant_disease.h5')
 
 #Name of Classes
-CLASS_NAMES = ['Corn-Common_rust', 'Potato-Early_blight', 'Tomato-Bacterial_spot']
+CLASS_NAMES = ['Corn-Common_rust', 'Tomato-Bacterial_spot', 'Potato-Early_blight']
 
 #Setting Title of App
 st.title("Plant Disease Detection")
