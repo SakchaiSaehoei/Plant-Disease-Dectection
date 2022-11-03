@@ -2,8 +2,8 @@
 import numpy as np
 import streamlit as st
 import cv2
-# from keras.models import load_model
-from tensorflow.python.keras.models import load_model
+from keras.models import load_model
+# from tensorflow.python.keras.models import load_model
 
 
 #Loading the Model
