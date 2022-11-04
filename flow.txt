@@ -1,0 +1,4 @@
+1.clone code into your own github
+2.connect streamlit with your github acccount 
+3. you can easily deploy just on one click  
+for more information visit here (https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app?fbclid=IwAR1gXmPvKuVC1x7vJ_mSO-85dgowJ-NkmtsZejbr0DS09T_ZdcstPtvfT5U)
